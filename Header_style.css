@@ -1,0 +1,58 @@
+    .navbar-collapse {
+        margin-left: 70px;
+    }
+    
+    .navbar-collapse .nav-item .nav-link {
+        color: lightslategrey;
+        font-weight: 600;
+    }
+    
+    .navbar-collapse .nav-item .nav-link:hover {
+        color: rgb(55, 223, 214);
+    }
+    
+    .navbar-collapse .action-button {
+        background: #56c6c6;
+        border-radius: 20px;
+        color: #fff;
+        box-shadow: none;
+        border: none;
+        text-shadow: none;
+        padding: 9px 15px;
+        margin-left: 6px;
+    }
+    
+    .navbar-collapse .action-button:hover {
+        background: rgb(65, 207, 250);
+        border-radius: 20px;
+        color: #fff;
+        box-shadow: none;
+        border: none;
+        text-shadow: none;
+        padding: 9px 15px;
+        transition: background-color 0.25s;
+        -webkit-transition: background-color 0.25s;
+        -moz-transition: background-color 0.25s;
+        -ms-transition: background-color 0.25s;
+        -o-transition: background-color 0.25s;
+    }
+    
+    .navbar-collapse .navbar-brand {
+        margin-left: 20px;
+    }
+    
+    .navbar-toggler .navbar-toggler-icon {
+        border-color: honeydew;
+        background-color: white;
+        color: grey;
+    }
+    
+    .navbar-toggler .navbar-toggler-icon:hover {
+        background-color: white;
+        color: teal;
+        transition: color 0.25s;
+        -webkit-transition: color 0.25s;
+        -moz-transition: color 0.25s;
+        -ms-transition: color 0.25s;
+        -o-transition: color 0.25s;
+    }
