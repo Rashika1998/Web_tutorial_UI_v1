@@ -1,0 +1,117 @@
+/*
+col_id_001
+col_id_002
+h2_id_001
+h2_id_002
+h4_id_001
+video_id_001
+row_id_001
+row_id_002
+h5_id_001
+h5_id_002
+*/
+
+#col_id_001 {
+    background-image: linear-gradient(#12beb6, #12beb6, #12beb6);
+}
+
+#col_id_002 {
+    background-image: linear-gradient(#12beb6, #12beb6, #12beb6);
+}
+
+#h2_id_001 {
+    margin-top: 100px;
+    margin-left: 0px;
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+#h2_id_002 {
+    margin-top: 10px;
+    margin-left: 0px;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+#h4_id_001 {
+    margin-top: 10px;
+    margin-left: 0px;
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+#video_id_001 {
+    margin-right: 10px;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#signup {
+    width: 38%;
+    border-radius: 25px;
+    background-color: rgb(38, 212, 224);
+    font-size: 20px;
+    font-weight: 300;
+    color: grey;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-left: 0px;
+    opacity: 0.85;
+    border-color: transparent;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+#signup:hover {
+    width: 38%;
+    border-radius: 25px;
+    background-color: rgb(13, 160, 170);
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-left: 0px;
+    opacity: 1;
+    border-color: transparent;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+#row_id_002 {
+    align-self: center;
+    background-image: linear-gradient(#12beb6, #12beb6, #12beb6);
+    text-align: center;
+    align-items: center;
+}
+
+.h5_id_001 {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/*part 02*/
+
+.h5_id_002 {
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.h5_id_003 {
+    color: rgb(14, 163, 173);
+    font-size: 14px;
+    font-weight: 400;
+}
