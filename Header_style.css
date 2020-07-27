@@ -3,8 +3,9 @@
     }
     
     .navbar-collapse .nav-item .nav-link {
-        color: lightslategrey;
+        color: gray;
         font-weight: 600;
+        font-size: 14px;
     }
     
     .navbar-collapse .nav-item .nav-link:hover {
@@ -19,7 +20,7 @@
         border: none;
         text-shadow: none;
         padding: 9px 15px;
-        margin-left: 6px;
+        margin-left: 4px;
     }
     
     .navbar-collapse .action-button:hover {
