@@ -1,0 +1,42 @@
+.amber-border {
+    max-width: 180px;
+}
+
+.input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    margin-top: 25px;
+}
+
+.input-group.md-form.form-sm.form-2 input {
+    margin-right: 0px;
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+
+.input-group.md-form.form-sm.form-2 input.amber-border {
+    border: 2px solid rgb(10, 134, 134);
+    background-color: white;
+}
+
+.lighten-3 {
+    margin-right: 0px;
+    color: white;
+}
+
+.lighten-3 {
+    background-color: rgb(10, 134, 134);
+    border: 2px solid rgb(10, 134, 134);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.lighten-3:hover {
+    background-color: rgb(12, 158, 158);
+    border: 2px solid rgb(12, 158, 158);
+}

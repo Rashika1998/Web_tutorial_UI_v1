@@ -1,0 +1,29 @@
+#drop_down_items_id {
+    text-decoration: none;
+    color: lightslategrey;
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    font-size: 18px;
+}
+
+.dropdown-menu {
+    width: 350px;
+    background-color: white;
+}
+
+.mr-4 {
+    width: 250px;
+    background-color: rgb(10, 134, 134);
+    border-color: transparent;
+    outline: white;
+    color: white;
+    box-shadow: none;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
