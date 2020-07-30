@@ -91,18 +91,18 @@ button_id_001
 
 #h1_id_003 {
     text-align: center;
-    font-size: 25px;
+    font-size: 22px;
     color: lightslategrey;
     margin-top: 20px;
 }
 
 .btn_id_001 {
-    border-color: #13918a;
+    border-color: grey;
     background-color: white;
-    color: lightseagreen;
+    color: grey;
     font-weight: 400;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-top: 8px;
     padding-bottom: 8px;
     box-shadow: white;
@@ -114,12 +114,12 @@ button_id_001
 }
 
 .btn_id_001:hover {
-    border-color: #13918a;
-    background-color: #13918a;
+    border-color: #12beb6;
+    background-color: #12beb6;
     color: white;
     font-weight: 400;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-top: 8px;
     padding-bottom: 8px;
     box-shadow: white;

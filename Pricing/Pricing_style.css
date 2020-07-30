@@ -1,0 +1,131 @@
+/*
+col_id_001
+col_id_002
+col_id_003
+h1_id_001
+h1_id_002
+h1_id_003
+h1_id_004
+
+container_id_001
+container_id_002
+container_id_003
+
+img_id_001
+
+
+btn_id_001
+*/
+
+
+/* Part 1 is here */
+
+#col_id_001 {
+    background-image: linear-gradient(#17ada6, #12beb6, #19bdb5);
+}
+
+#h1_id_001 {
+    color: white;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* Part 2 is here */
+
+#col_id_002 {
+    margin-top: 1px;
+    background-image: linear-gradient(#12beb6, #12beb6, #12beb6);
+}
+
+#container_id_001 {
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin: 10px;
+}
+
+#container_id_001:hover {
+    color: grey;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin: 10px;
+}
+
+#h1_id_002 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+#h1_id_002:hover {
+    font-size: 30px;
+    color: rgb(171, 171, 172);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+
+/* Part 3 is here */
+
+#img_id_001 {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+/* Part 4 is here */
+
+#h1_id_003 {
+    margin-top: 200px;
+    color: gray;
+    font-size: 20px;
+    text-align: left;
+}
+
+#container_id_003 {
+    margin-top: 30px;
+}
+
+#h1_id_004 {
+    margin-top: 50px;
+    color: gray;
+    font-size: 15px;
+    text-align: left;
+}
+
+#drop_down_items_id_01 {
+    text-decoration: none;
+    color: lightslategrey;
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    font-size: 18px;
+}
+
+#btn_id_001 {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
