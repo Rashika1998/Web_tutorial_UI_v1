@@ -112,6 +112,11 @@ p_id_004
     margin-right: 10px;
     font-weight: 300;
     font-size: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 #p_id_004 {

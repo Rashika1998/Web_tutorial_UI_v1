@@ -96,9 +96,9 @@ btn_id_001
 /* Part 4 is here */
 
 #h1_id_003 {
-    margin-top: 200px;
-    color: gray;
-    font-size: 20px;
+    margin-top: 0px;
+    color: rgb(38, 182, 175);
+    font-size: 30px;
     text-align: left;
 }
 
@@ -107,8 +107,8 @@ btn_id_001
 }
 
 #h1_id_004 {
-    margin-top: 50px;
-    color: gray;
+    margin-top: 5px;
+    color: rgb(28, 160, 153);
     font-size: 15px;
     text-align: left;
 }
@@ -128,4 +128,17 @@ btn_id_001
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+}
+
+
+/* Part 5 is here */
+
+#table_td_id_006 {
+    color: lightseagreen;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 400;
 }
