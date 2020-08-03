@@ -115,3 +115,11 @@ h5_id_002
     font-size: 14px;
     font-weight: 400;
 }
+
+#img_id_001 {
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
