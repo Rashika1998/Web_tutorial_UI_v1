@@ -123,6 +123,7 @@
     }
     
     #row_id_002 {
+        display: flex;
         text-align: center;
     }
     
