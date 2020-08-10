@@ -141,20 +141,20 @@ button_id_001
 }
 
 #h5_id_001 {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: lightslategray;
-    margin-left: 20px;
+    margin-left: 5px;
     margin-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #p_id_001 {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
     color: lightslategray;
-    margin-left: 10px;
-    margin-top: 2px;
+    margin-left: 5px;
+    margin-top: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -168,11 +168,6 @@ button_id_001
 
 #row_id_03 {
     background-image: linear-gradient(#edf5f5, #edf5f5, #edf5f5);
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
 }
 
 
@@ -228,9 +223,14 @@ button_id_001
 #button_id_001 {
     background-color: white;
     width: 100px;
-    float: right;
+    float: left;
     color: grey;
     font-weight: 500;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 #button_id_002 {
@@ -239,6 +239,11 @@ button_id_001
     float: left;
     color: orange;
     font-weight: 500;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 .custom-control-label {
